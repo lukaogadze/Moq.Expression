@@ -11,7 +11,8 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>SigningKey.pfx</AssemblyOriginatorKeyFile>
     <Description>This package helps you to solve expression function in unit test moq framework.</Description>
-    <PackageTags>moqexpression, moqexpressionfunction, unittestexpressionfunction, moqexpressionmatch, nunittestexpression</PackageTags>
+    <PackageTags>moqexpression, moqexpressionfunction, moqexpressionmatch, moqexpressionlambda, mockexpression, mockexpressionfunction, mockexpressionmatch, mockexpressionlambda</PackageTags>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
