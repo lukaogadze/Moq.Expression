@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
     <Authors>Ovais Hanif</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseUrl>https://github.com/ovaishanif94/Moq.Expression/blob/master/LICENSE</PackageLicenseUrl>
@@ -11,8 +11,9 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>SigningKey.pfx</AssemblyOriginatorKeyFile>
     <Description>This package helps you to solve expression function in unit test moq framework.</Description>
-    <PackageTags>moqexpression, moqexpressionfunction, moqexpressionmatch, moqexpressionlambda, mockexpression, mockexpressionfunction, mockexpressionmatch, mockexpressionlambda</PackageTags>
-    <Version>1.0.0</Version>
+    <PackageTags>aspnet, core, aspnetcore, moq, expression, expressionfunction, lambdafunction, mock, unittest, nunit, xunit, mstest</PackageTags>    
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>MongoDB provider for the ASP.NET Core &gt;= 2.1 Identity framework.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
