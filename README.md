@@ -1,11 +1,13 @@
 # Moq.Expression
 This package helps you to solve expression function in unit test moq framework.
 
+[![GitHub license](https://img.shields.io/github/license/ovaishanif94/Moq.Expression.svg)](https://github.com/ovaishanif94/Moq.Expression/blob/master/LICENSE)  [![Nuget downloads](https://img.shields.io/nuget/dt/MoqExpression.svg)](https://www.nuget.org/packages/MoqExpression/) [![Nuget version](https://img.shields.io/nuget/v/MoqExpression.svg)](https://www.nuget.org/packages/MoqExpression/) [![GitHub issues](https://img.shields.io/github/issues/ovaishanif94/Moq.Expression.svg)](https://GitHub.com/ovaishanif94/Moq.Expression/issues/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ovaishanif94/Moq.Expression/graphs/commit-activity)
+
 ### Download
 The latest stable release is available on NuGet: https://www.nuget.org/packages/MoqExpression/
 
 #### Example
-`Install-Package MoqExpression -Version 1.0.0`
+`Install-Package MoqExpression -Version 1.0.2`
 
 **IUserService**
 
