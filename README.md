@@ -7,7 +7,7 @@ This package helps you to solve expression function in unit test moq framework.
 The latest stable release is available on NuGet: https://www.nuget.org/packages/MoqExpression/
 
 #### Example
-`Install-Package MoqExpression -Version 1.0.2`
+`Install-Package MoqExpression -Version 1.0.3`
 
 **IUserService**
 
